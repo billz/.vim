@@ -52,7 +52,7 @@ set colorcolumn=80
 
 " Aesthetics
 
-colorscheme solarized
+colorscheme github
 set background=light
 
 " Mappings and shortcuts
