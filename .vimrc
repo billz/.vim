@@ -1,10 +1,5 @@
 " Configuration
 
-" Pathogen first
-
-execute pathogen#infect()
-
-
 " Basic Settings
 
 filetype plugin indent on
@@ -52,7 +47,6 @@ set colorcolumn=80
 
 " Aesthetics
 
-colorscheme github
 set background=light
 
 " Mappings and shortcuts
