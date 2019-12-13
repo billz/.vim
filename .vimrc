@@ -42,8 +42,6 @@ set wrap
 set linebreak
 set nolist
 set formatoptions=qrn1
-set spell spelllang=en_us
-set colorcolumn=80
 
 " Aesthetics
 
