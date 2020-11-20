@@ -42,6 +42,7 @@ set wrap
 set linebreak
 set nolist
 set formatoptions=qrn1
+set mouse-=a
 
 " Aesthetics
 
