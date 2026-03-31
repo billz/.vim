@@ -45,8 +45,11 @@ set formatoptions=qrn1
 set mouse-=a
 
 " Aesthetics
-
 set background=light
+
+" Cursor column
+set cursorcolumn
+hi CursorColumn ctermbg=8
 
 " Mappings and shortcuts
 
